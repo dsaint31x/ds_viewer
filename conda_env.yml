@@ -1,0 +1,13 @@
+name: opencv
+channels:
+  - defaults
+dependencies:
+  - opencv
+  - git
+  - scikit-image
+  - matplotlib
+  - jupyter
+  - pyautogui
+  - pandas
+  - pydicom
+prefix: /home/dsaint31/miniconda3/envs/opencv
